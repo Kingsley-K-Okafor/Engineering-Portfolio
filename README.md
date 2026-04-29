@@ -29,7 +29,7 @@ Traffic modelling and data-driven simulation using SUMO and TraCI.
 **Projects included:**
 - SUMO / TraCI Traffic Microsimulation (4-junction signalised network)  
 
-👉 [View Transport Portfolio](https://github.com/YOUR-USERNAME/transport-simulation-portfolio)
+👉 [View Transport Portfolio](https://github.com/Kingsley-K-Okafor/transport-simulation-portfolio)
 
 ---
 
@@ -39,7 +39,7 @@ Research-driven analysis of low-carbon transport systems using integrated enviro
 **Projects included:**
 - Low-Carbon Transport Fuels (LCA + TEA) – MSc Thesis  
 
-👉 [View Sustainability & Research Portfolio](https://github.com/YOUR-USERNAME/sustainability-transport-research)
+👉 [View Sustainability & Research Portfolio](https://github.com/Kingsley-K-Okafor/Transport-Decarbonization)
 
 ---
 
