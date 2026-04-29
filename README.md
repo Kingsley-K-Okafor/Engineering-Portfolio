@@ -19,7 +19,7 @@ Design support, detailing, and coordination across residential and commercial pr
 - Modular Office Container (Eurocodes)  
 - Water Basin / Masonry Detailing  
 
-👉 [View Structural Portfolio](https://github.com/YOUR-USERNAME/structural-civil-engineering-portfolio)
+👉 [View Structural Portfolio](https://github.com/Kingsley-K-Okafor/Structural-engineering-portfolio)
 
 ---
 
