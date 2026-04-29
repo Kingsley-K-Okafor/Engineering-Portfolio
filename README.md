@@ -9,18 +9,17 @@ This portfolio brings together selected engineering projects covering structural
 ### Structural & Civil Engineering
 Residential foundations, timber framing, steel coordination, commercial details, pile foundations, modular steel systems, and masonry/RC detailing.
 
-[View Structural & Civil Engineering Portfolio](https://github.com/YOUR-USERNAME/structural-civil-engineering-portfolio)
+[View Structural & Civil Engineering Portfolio](https://github.com/Kingsley-K-Okafor/structural-civil-engineering-portfolio)
 
 ### Transport Simulation
 Traffic microsimulation using SUMO, TraCI, Python, route generation, detector feedback, and performance analysis.
 
-[View Transport Simulation Portfolio](https://github.com/YOUR-USERNAME/transport-simulation-portfolio)
+[View Transport Simulation Portfolio](https://github.com/Kingsley-K-Okafor/transport-simulation-portfolio)
 
 ### Sustainability & Transport Research
 MSc research on low-carbon transport fuels using Life Cycle Assessment and Techno-Economic Analysis.
 
-[View Sustainability & Transport Research](https://github.com/YOUR-USERNAME/sustainability-transport-research)
-
+[View Sustainability & Transport Research](https://github.com/Kingsley-K-Okafor/sustainability-transport-research)
 ## Contact
 
 Email: ken.k.okafor@gmail.com  
