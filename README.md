@@ -5,6 +5,19 @@ Structural & Civil Engineering • Transport Systems • Sustainability Research
 This portfolio presents a curated selection of engineering work across structural design, detailing, transport simulation, and sustainability-focused research. Each section is organised to reflect real project workflows—from concept and analysis to coordinated delivery.
 
 ---
+## 🔧 Engineering Delivery & Coordination
+
+Across all projects, my work focuses not only on design but on ensuring that outputs are:
+
+- Coordinated across disciplines  
+- Buildable and clear for construction  
+- Delivered efficiently through structured workflows
+
+Delivery Outcome
+- Reduced ambiguity in construction drawings  
+- Improved coordination efficiency  
+- Supported the timely issue of work packages
+---
 
 ## 📂 Portfolio Structure
 
