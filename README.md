@@ -2,26 +2,61 @@
 
 Structural & Civil Engineering • Transport Systems • Sustainability Research • Digital Delivery
 
-This portfolio brings together selected engineering projects covering structural design support, foundations, detailing, traffic microsimulation, and low-carbon transport research.
+This portfolio presents a curated selection of engineering work across structural design, detailing, transport simulation, and sustainability-focused research. Each section is organised to reflect real project workflows—from concept and analysis to coordinated delivery.
 
-## Portfolio Sections
+---
 
-### Structural & Civil Engineering
-Residential foundations, timber framing, steel coordination, commercial details, pile foundations, modular steel systems, and masonry/RC detailing.
+## 📂 Portfolio Structure
 
-[View Structural & Civil Engineering Portfolio](https://github.com/Kingsley-K-Okafor/structural-civil-engineering-portfolio)
+### 🏗️ Structural & Civil Engineering  
+Design support, detailing, and coordination across residential and commercial projects.
 
-### Transport Simulation
-Traffic microsimulation using SUMO, TraCI, Python, route generation, detector feedback, and performance analysis.
+**Projects included:**
+- Residential Foundations & Timber Framing  
+- Steel Enclosure / Framing Coordination  
+- Commercial Details Package  
+- Pile Foundation Design Support  
+- Modular Office Container (Eurocodes)  
+- Water Basin / Masonry Detailing  
 
-[View Transport Simulation Portfolio](https://github.com/Kingsley-K-Okafor/transport-simulation-portfolio)
+👉 [View Structural Portfolio](https://github.com/YOUR-USERNAME/structural-civil-engineering-portfolio)
 
-### Sustainability & Transport Research
-MSc research on low-carbon transport fuels using Life Cycle Assessment and Techno-Economic Analysis.
+---
 
-[View Sustainability & Transport Research](https://github.com/Kingsley-K-Okafor/sustainability-transport-research)
-## Contact
+### 🚦 Transport Simulation  
+Traffic modelling and data-driven simulation using SUMO and TraCI.
 
-Email: ken.k.okafor@gmail.com  
-LinkedIn: www.linkedin.com/in/kenechukwu-kingsley-okafor  
-Location: Nottingham, UK
+**Projects included:**
+- SUMO / TraCI Traffic Microsimulation (4-junction signalised network)  
+
+👉 [View Transport Portfolio](https://github.com/YOUR-USERNAME/transport-simulation-portfolio)
+
+---
+
+### 🌱 Sustainability & Transport Research  
+Research-driven analysis of low-carbon transport systems using integrated environmental and economic modelling.
+
+**Projects included:**
+- Low-Carbon Transport Fuels (LCA + TEA) – MSc Thesis  
+
+👉 [View Sustainability & Research Portfolio](https://github.com/YOUR-USERNAME/sustainability-transport-research)
+
+---
+
+## 🧠 Core Capabilities
+
+- Structural analysis & load path verification  
+- Reinforced concrete, steel, and masonry detailing  
+- Foundation systems (shallow & deep)  
+- Multidisciplinary coordination (Arch/MEP/Transport)  
+- Traffic simulation & data analysis (SUMO / Python)  
+- Sustainability assessment (LCA / TEA)  
+- BIM/CAD-based digital delivery  
+
+---
+
+## 📫 Contact
+
+**Email:** ken.k.okafor@gmail.com  
+**LinkedIn:** www.linkedin.com/in/kenechukwu-kingsley-okafor  
+**Location:** Nottingham, UK (Open to relocation)
