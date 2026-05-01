@@ -42,7 +42,7 @@ Traffic modelling and data-driven simulation using SUMO and TraCI.
 **Projects included:**
 - SUMO / TraCI Traffic Microsimulation (4-junction signalised network)  
 
-👉 [View Transport Portfolio](https://github.com/Kingsley-K-Okafor/transport-simulation-portfolio)
+👉 [View Transport Portfolio](https://github.com/Kingsley-K-Okafor/transport-engineering-portfolio)
 
 ---
 
@@ -72,4 +72,4 @@ Research-driven analysis of low-carbon transport systems using integrated enviro
 
 **Email:** ken.k.okafor@gmail.com  
 **LinkedIn:** www.linkedin.com/in/kenechukwu-kingsley-okafor  
-**Location:** Nottingham, UK (Open to relocation)
+**Location:** Nottingham, UK
